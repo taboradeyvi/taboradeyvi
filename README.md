@@ -6,15 +6,28 @@ I am a web and mobile programmer, lover of technology and digital animations
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Show More
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="400" src="https://media4.giphy.com/media/gLcUG7QiR0jpMzoNUu/200w.webp?cid=ecf05e47lfx1rywaljw1an3kbntukyy8mpxefgcwqfxh72hi&rid=200w.webp&ct=g" />
 
-```kotlin
-object **WebDeveloper** {
- val name = "Deyvi Roniel Tabora Paz"
- 
- val primarySkillset = "Flow charts, video editing, data analysis and corrective and preventive maintenance of computer devices"
- 
- val languages = listOf("React Js", "Angular Js", ".NET Core", "Node Js", "JavaScript", "Css3", "Html5", "Bootstrap", "Python") 
+```javascript
+var WebDeveloper = {
+  "name": "Deyvi Roniel Tabora Paz",
+  "primarySkillset": [
+     "Flow charts",
+     "Video editing",
+     "Data analysis",
+     "Corrective and preventive maintenance of computer devices"
+  ],
+  "languages": [
+     "React Js",
+     "Angular Js",
+     ".NET Core",
+     "Node Js",
+     "JavaScript",
+     "Css3",
+     "Html5",
+     "Bootstrap",
+     "Python"
+  ]
 }
 ```
 
