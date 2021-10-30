@@ -6,7 +6,7 @@ I am a web and mobile programmer, lover of technology and digital animations
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Show More
 
-<img align="right" width="340" src="https://media4.giphy.com/media/gLcUG7QiR0jpMzoNUu/200w.webp?cid=ecf05e47lfx1rywaljw1an3kbntukyy8mpxefgcwqfxh72hi&rid=200w.webp&ct=g" />
+<img align="right" width="350" src="https://media4.giphy.com/media/gLcUG7QiR0jpMzoNUu/200w.webp?cid=ecf05e47lfx1rywaljw1an3kbntukyy8mpxefgcwqfxh72hi&rid=200w.webp&ct=g" />
 
 ```javascript
 var WebDeveloper = {
