@@ -1,3 +1,5 @@
+<img align="right" width="100" alt="GrupoPlatino" src="https://avatars.githubusercontent.com/u/89597261?s=200&v=4">
+
 ### hi devs 👋
 
 I am a web and mobile programmer, lover of technology and digital animations
