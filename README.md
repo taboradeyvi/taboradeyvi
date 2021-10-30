@@ -18,7 +18,7 @@ object **WebDeveloper** {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -38,7 +38,7 @@ object **WebDeveloper** {
 [linkedin]: https://www.linkedin.com/in/deyvi-roniel-tabora-paz-29191b191/
 <br>
 
-#### Rede Sociais!
+#### Social Networks!
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
