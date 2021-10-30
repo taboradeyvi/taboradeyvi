@@ -14,8 +14,7 @@ var WebDeveloper = {
   "primarySkillset": [
      "Flow charts",
      "Video editing",
-     "Data analysis",
-     "Corrective and preventive maintenance of computer devices"
+     "Data analysis"
   ],
   "languages": [
      "React Js",
