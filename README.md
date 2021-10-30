@@ -7,12 +7,12 @@ I am a web and mobile programmer, lover of technology and digital animations
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **TaboraDeyvi** {
+object **WebDeveloper** {
  val name = "Deyvi Roniel Tabora Paz"
  
  val primarySkillset = "Flow charts, video editing, data analysis and corrective and preventive maintenance of computer devices"
  
- val languages = listOf("React Js", "Angular Js", ".NET Core", "Node Js", "JavaScript", "Css3", "Html5, "Bootstrap", "Python") 
+ val languages = listOf("React Js", "Angular Js", ".NET Core", "Node Js", "JavaScript", "Css3", "Html5", "Bootstrap", "Python") 
 }
 ```
 
