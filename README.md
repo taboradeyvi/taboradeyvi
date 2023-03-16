@@ -56,3 +56,5 @@ var WebDeveloper = {
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taboradeyvi)](https://github.com/anuraghazra/github-readme-stats)
