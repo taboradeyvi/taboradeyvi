@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **.NET Core, Angular, React, Flutter, SQL Server, Phyton and Software Arquitecture**
 
-- 📫 How to reach me **dtabora@grupoplatino.hn**
+- 📫 How to reach me **taborpaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
